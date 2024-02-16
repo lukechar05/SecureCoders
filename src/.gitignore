@@ -7,6 +7,9 @@ node_modules/
 # Ignore environment variables file
 .env
 
+src/client/node_modules/.cache/default-development/
+src/client/node_modules/electron/dist/Electron.app/Contents/Frameworks/Electron Framework.framework/Versions/A/
+
 # Ignore build output
 dist/
 
