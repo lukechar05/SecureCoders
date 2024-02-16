@@ -1,5 +1,7 @@
 # Ignore node_modules directory
-node_modules/
+/src/client/node_modules/
+/src/build/
+/src/client/public
 
 # Ignore log files
 *.log
